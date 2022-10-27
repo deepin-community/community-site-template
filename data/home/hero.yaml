@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Welcome to **deepin** Community"
+  text: "Try out the deepin distro and maybe also consider join the community to make it even better :)"
+
+  buttonPrimary:
+    label: "Download"
+    url: "https://www.deepin.org/download"
+
+  buttonSecondary:
+    label: "Join Community"
+    url: "#"
+

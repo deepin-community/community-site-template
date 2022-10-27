@@ -1,0 +1,15 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/services-web-development.png"
+    pretitle: "We hope you like it"
+    title: "deepin is easy to use!"
+    text: "As an out-of-the-box linux desktop distribution, deepin is beautiful and easy to use."
+
+    buttons: 
+      - label: "Download deepin"
+        url: "#"
+
+      - label: "Learn more"
+        url: "#"
